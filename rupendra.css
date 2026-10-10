@@ -769,7 +769,7 @@ ul {
 }
 .media--wide { aspect-ratio: 4 / 3; box-shadow: var(--shadow-md); }
 .collabs__media img,
-.media--wide img { object-fit: cover; object-position: center 60%; }
+.media--wide img { object-fit: cover; object-position: center 20%; }
 .collabs__list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
